@@ -1,6 +1,9 @@
 /**
+ * Retrições do Arrow function:
  * 
- * @returns 
+ * 1 - "this" sempre será o objeto global. Métodos para modificar seu valor não irão funcionar
+ * 2 - Não existe o obejeto "arguments"
+ * 3 - O construtur (ex: nem MeuObjeto()) também não pode ser utilizado
  */
 
 const helloWorld = () => {
