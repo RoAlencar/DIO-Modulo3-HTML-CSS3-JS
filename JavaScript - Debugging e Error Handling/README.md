@@ -1,0 +1,3 @@
+# JavaScript - Debugging e Error Handling
+
+Curso ministrado pela Stephany Nusch, no Santander Bootcamp Fullstack Developer de 2022 
